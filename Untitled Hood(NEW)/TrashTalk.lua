@@ -15,7 +15,7 @@ local words = {
         'UR DODGING XD😂😂',
         'UR MY LONG MISSING SON',
         'no one asked for you to talk',
-        'HOW IS THE GROUND👅',
+        'HOW IS THE GROUND',
         'IS THAT ALL YOU HAVE!?!?',
         'just log kid',
         'no one asked 😂',
