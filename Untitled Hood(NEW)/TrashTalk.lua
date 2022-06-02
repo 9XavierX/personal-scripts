@@ -18,6 +18,8 @@ local words = {
         'HOW IS THE GROUND',
         'IS THAT ALL YOU HAVE!?!?',
         'just log kid',
+        'you better clip me',
+        'get clowned on🤡🤡',
         'no one asked 😂',
         'LucidWare on top💫'
 }
